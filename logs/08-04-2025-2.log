@@ -1,0 +1,5 @@
+[18:10:38 INFO]: [ArisSuggestionBot] Starting bot...
+[18:10:55 ERROR]: [ArisSuggestionBot] Error handling photo: 'list' object has no attribute 'file_id'
+[18:11:15 ERROR]: [ArisSuggestionBot] Error handling photo: 'list' object has no attribute 'file_id'
+[18:11:58 INFO]: [ArisSuggestionBot] Bot stopped by keyboard interrupt
+[18:11:58 INFO]: [ArisSuggestionBot] Bot stopped
