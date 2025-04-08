@@ -1,8 +1,3 @@
-**README.md**  
-_(Адаптирован для GitHub с поддержкой двух языков)_
-
----
-
 # 📢 ArisSuggestion Bot
 
 Telegram bot for user suggestions moderation and publishing
@@ -11,7 +6,7 @@ Telegram bot for user suggestions moderation and publishing
 
 ## 🌍 Languages
 
-**English** | **[Русский](#русский)**
+**[English](#english)** | **[Русский](#русский)**
 
 ---
 
