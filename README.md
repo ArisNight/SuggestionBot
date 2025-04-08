@@ -24,8 +24,8 @@ Telegram bot for user suggestions moderation and publishing
 1. Clone repository:
 
 ```bash
-git clone https://github.com/yourusername/ArisSuggestion.git
-cd ArisSuggestion
+git clone https://github.com/yourusername/SuggestionBot.git
+cd SuggestionBot
 ```
 
 2. Install dependencies:
@@ -86,8 +86,8 @@ python run.py
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/yourusername/ArisSuggestion.git
-cd ArisSuggestion
+git clone https://github.com/yourusername/SuggestionBot.git
+cd SuggestionBot
 ```
 
 2. Установите зависимости:
