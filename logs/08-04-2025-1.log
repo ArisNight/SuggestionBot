@@ -1,14 +1,4 @@
-[17:55:27 INFO]: [ArisSuggestionBot] Database connection initialized
-[17:55:27 INFO]: [ArisSuggestionBot] Starting ArisSuggestionBot...
-[17:55:28 INFO]: [ArisSuggestionBot] Bot started successfully
-[17:55:38 INFO]: [ArisSuggestionBot] Received /start command from user @arisnightt (ID: 1721979788)
-[17:55:51 INFO]: [ArisSuggestionBot] New message from @arisnightt (ID: 1721979788): Привет, предложка...
-[17:55:51 INFO]: [ArisSuggestionBot] New suggestion added from @arisnightt. Message ID: 26
-[17:55:52 INFO]: [ArisSuggestionBot] Message successfully saved to database (DB ID: 2)
-[17:56:00 INFO]: [ArisSuggestionBot] Publish request for message ID: 27 from user @arisnightt
-[17:56:00 INFO]: [ArisSuggestionBot] Message published to channel (Original author: @arisnightt)
-[17:56:00 INFO]: [ArisSuggestionBot] Updated status to 'approved' for message ID: 27
-[17:56:37 ERROR]: [ArisSuggestionBot] Error handling message from @arisnightt: 'NoneType' object is not subscriptable
-[17:57:35 ERROR]: [ArisSuggestionBot] Error handling message from @arisnightt: 'NoneType' object is not subscriptable
-[17:57:58 INFO]: [ArisSuggestionBot] Database connection closed
-[17:57:58 INFO]: [ArisSuggestionBot] Bot stopped. Database connection closed.
+[18:36:54 INFO]: [ArisSuggestionBot] Starting bot...
+[18:36:59 INFO]: [ArisSuggestionBot] Bot stopped by keyboard interrupt
+[18:36:59 INFO]: [ArisSuggestionBot] Bot stopped
+[18:36:59 INFO]: [ArisSuggestionBot] Shutting down...
